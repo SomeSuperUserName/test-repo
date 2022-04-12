@@ -20,7 +20,7 @@ export const response = [
 
     sent_date: "2021-12-13 09:00:02",
 
-    is_unread: true,
+    is_unread: false,
 
     subject: "Wymień walutę szybko i tanio",
 
